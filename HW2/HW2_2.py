@@ -119,5 +119,5 @@ def do(filename):
 
 
 if __name__ == '__main__':
-    filename = 'hw_file2.fasta'
+    filename = 'data/hw_file2.fasta'
     do(filename)
